@@ -30,7 +30,7 @@
         <httpclient.version>4.5.8</httpclient.version>
         <commons-io.version>2.6</commons-io.version>
         <jedis.version>2.9.3</jedis.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
     </properties>
 
     <dependencyManagement>
